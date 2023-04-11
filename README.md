@@ -8,3 +8,5 @@ Projeto realizado com base no aprendizado adquirido nas aulas de lógica de prog
 - Função borracha
 - Função limpa tela
 - Opção de escolha de cor
+- Adicionado responsividade mobile
+- Aceita cliques em desktop e toques em mobile
